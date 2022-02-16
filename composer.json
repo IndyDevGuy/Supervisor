@@ -16,7 +16,7 @@
   ],
   "require": {
     "php": "^7.4 || ^8.0",
-    "zendframework/zend-xmlrpc": "^2.9"
+    "laminas/laminas-xmlrpc": "^2.1"
   },
   "autoload": {
     "psr-0": { "Supervisor": "src/" }
